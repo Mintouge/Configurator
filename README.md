@@ -1,0 +1,2 @@
+# Configurator
+Mintouge Configurator app
